@@ -1,7 +1,7 @@
 Shop information
 
 Baker:
-Mr. Shyan Chua (Exquisite 3-star Michelin star bakery chef)
+Mr. Uzzair (Exquisite 3-star Michelin star bakery chef)
 
 Time open:
 Everyday from 9am to 6pm (Except wednesday)
@@ -10,12 +10,12 @@ Order and delivery service chatbot link:
 (https://www.cakeshop.com)
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
+Street - UiTM, Seksyen 7, 40100 Shah Alam
 State/province/area - Selangor
 Zip code - 42600
 
 Phone Number:
-+60 12-282 8653
++60 183685392
 
 Cake flavours:
 Chocolate (Available)
